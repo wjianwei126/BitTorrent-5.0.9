@@ -1,3 +1,10 @@
+This repository host BitTorrent code written in python when its source 
+code was open source. The repository is hosted under the assumption that
+the code is still open source. The source code has been listed as a good 
+base to study for beginner programmers by Trevor Blackwell.
+
+http://tlb.org/#faq
+
 About BitTorrent:
 =================
 
